@@ -1,3 +1,7 @@
+📩 Let's connect! Feel free to email me at adriankhma@gmail.com or leave me a message!
+
+🔑 Key Skills: Python (Numpy/Pandas/Selenium/Requests/Matplotlib/Seaborn), SQL (Google Big Query, Microsoft SQL Server), Tableau, Data Visualization, Dashboards, Data Processing, Data Governance, Descriptive Analytics, Diagnostic Analytics, Data Reporting, ETL
+
 🌟 Transforming Data into Impact for the Creative Tech, SaaS and e-commerce Industry
 
 Hello! I’m Adrian Ma Kwai Hou, graduating with a Business Administration degree focusing on Information Systems. My passion for data analytics, especially in the Creative Tech, SaaS and e-commerce Industry Industry, stems from the culmination of all my work experiences and a deep appreciation for the creative arts and software community.
@@ -17,7 +21,3 @@ After graduation, personal responsibilities required me to focus on my family. D
 At Tabula Rasa, I engineer data pipelines to enhance strategic analysis and decision-making, boosting revenue and operational efficiency. Proficient in Python, SQL, and advanced data visualization, I excel at transforming complex data into actionable insights.
 
 I am open to opportunities where I can apply my robust analytics background, particularly in roles that leverage innovative, data-driven strategies to tackle complex challenges across any industry.
-
-🔑 Key Skills: Python, SQL, Tableau, Data Visualization, Dashboards, Data Processing, Data Quality, Descriptive Analytics, Diagnostic Analytics, Data Reporting, ETL
-
-📩 Let's connect! If you'd like to chat or collaborate, feel free to email me at adriankhma@gmail.com
