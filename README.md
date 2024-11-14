@@ -1,6 +1,6 @@
 🌟 Transforming Data into Impact for the Creative Tech, SaaS and e-commerce Industry
 
-Hello! I’m Adrian Ma Kwai Hou, a Business Administration graduate from the University of California, Riverside. My passion for data analytics, especially in the Creative Tech, SaaS and e-commerce Industry Industry, stems from the culmination of all my work experiences and a deep appreciation for the creative arts and software community.
+Hello! I’m Adrian Ma Kwai Hou, graduating with a Business Administration degree focusing on Information Systems. My passion for data analytics, especially in the Creative Tech, SaaS and e-commerce Industry Industry, stems from the culmination of all my work experiences and a deep appreciation for the creative arts and software community.
 
 🔍 My Journey in Data Analytics
 
