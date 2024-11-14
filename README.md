@@ -1,4 +1,4 @@
-📩 Let's connect! Feel free to email me at adriankhma@gmail.com or leave me a message!
+📩 Let's connect! Feel free to email me at adriankhma@gmail.com!
 
 🔑 Key Skills: Python (Numpy/Pandas/Selenium/Requests/Matplotlib/Seaborn), SQL (Google Big Query, Microsoft SQL Server), Tableau, Data Visualization, Dashboards, Data Processing, Data Governance, Descriptive Analytics, Diagnostic Analytics, Data Reporting, ETL
 
